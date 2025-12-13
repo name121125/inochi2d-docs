@@ -20,13 +20,14 @@ msgstr ""
 #: ../../creator/first-model/index.rst:3 ../../creator/first-model/index.rst:11
 #: 0a25bccde9a3426bb912a237fda11c43
 msgid "Your First Model"
-msgstr ""
+msgstr "第一個模型"
 
 #: ../../creator/first-model/index.rst:5 d691263d6dbd4d068403197edc128399
 msgid ""
 "The following is a small tutorial teaching you the basics of modeling in "
 "Inochi Creator."
 msgstr ""
+"接下來，我們會教你怎麼在 Inochi Creator 中製作模型。"
 
 #: ../../creator/first-model/index.rst:7 8932a785e7a84603a4d7fdcd54a03c50
 msgid ""
@@ -34,6 +35,8 @@ msgid ""
 "layout of the UI, how to mesh parts, how to use Parameters, adding "
 "Physics and so forth."
 msgstr ""
+"從 Aka 的簡易繪圖檔，你將會學到 Inochi Creator 的介面、怎麼建立並使用網格、
+"如何操作參數、加入物理......等等。"
 
 #: ../../creator/first-model/index.rst:9 3a458ccd29a34125a1ace9cbcdd647a1
 msgid ""
@@ -41,4 +44,5 @@ msgid ""
 "is done </creator/getting-started>` before continuing to the next "
 "section."
 msgstr ""
+"在開始之前，確認你已經\\ :doc:`安裝了Inochi Creator並設定完畢 </creator/getting-started>`\\。"
 

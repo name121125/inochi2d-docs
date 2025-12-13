@@ -32,8 +32,9 @@ msgid ""
 "textures in real-time. These distortions can trick the end user in to "
 "perciving 3D depth in the 2D art."
 msgstr ""
-"Inochi Creator 是一個編輯`Inochi2D角色格式 <https://github.com/Inochi2D/inochi2d>`的開源編輯器。"
-"這個編輯器可以幫助你"
+"Inochi Creator 是一個編輯\\ `Inochi2D角色格式 <https://github.com/Inochi2D/inochi2d>`_\\的開源編輯器，"
+"可以創造供遊戲或是\\ `虛擬直播 <https://zh.wikipedia.org/wiki/VTuber>`_\\ 等使用的模型。"
+"透過即時變形、平行移動或者是扭曲2D圖形，可以讓觀眾誤認為其為3D模型。"
 
 #: ../../creator/about.rst:12 ade2d432c1e640eca808bc83063ca78b
 msgid ""
@@ -41,10 +42,13 @@ msgid ""
 "out `Inochi Session <https://github.com/Inochi2D/inochi-session>`_ as "
 "well."
 msgstr ""
+"如果你是一位有興趣使用Inochi2D的VTuber，"
+"我們建議你也來看看\\ `Inochi Session <https://github.com/Inochi2D/inochi-session>`_\\ 。"
 
 #: ../../creator/about.rst:14 676fbe1d30d8410d8a8fb8f89d06ad72
 msgid ""
 "To get started check out our `Getting Started Guide <./getting-"
 "started.html>`_"
 msgstr ""
+"讓我們\\ `開始吧！ <./getting-started.html>`_\\ "
 
