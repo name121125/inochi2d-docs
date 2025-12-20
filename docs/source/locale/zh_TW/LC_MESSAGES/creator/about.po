@@ -33,7 +33,7 @@ msgid ""
 "perciving 3D depth in the 2D art."
 msgstr ""
 "Inochi Creator 是一個編輯\\ `Inochi2D角色格式 <https://github.com/Inochi2D/inochi2d>`_\\的開源編輯器，"
-"可以創造供遊戲或是\\ `虛擬直播 <https://zh.wikipedia.org/wiki/VTuber>`_\\ 等使用的模型。"
+"可以創造供遊戲或是\\ `Vtuber <https://zh.wikipedia.org/wiki/VTuber>`_\\ 等使用的模型。"
 "透過即時變形、平行移動或者是扭曲2D圖形，可以讓觀眾誤認為其為3D模型。"
 
 #: ../../creator/about.rst:12 ade2d432c1e640eca808bc83063ca78b

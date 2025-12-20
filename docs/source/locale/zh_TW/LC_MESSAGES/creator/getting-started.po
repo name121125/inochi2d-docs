@@ -171,7 +171,7 @@ msgid ""
 " can corrupt your files in the process!"
 msgstr ""
 "Nightly版本不穩定，除非你可以承擔較多的Bug，否則我們不建議你使用Nightly版本。"
-"Nightly版本很有可能在運作時崩潰並損壞你的檔案，這點請特別留意！"
+"Nightly版本很有可能在運作時崩潰並損壞你的檔案，請特別留意！"
 
 #: ../../creator/getting-started.rst:68 83f66b99ddeb413baf82bdc39269fd29
 msgid "Make frequent backups!"

@@ -47,7 +47,7 @@ msgid ""
 "projects under the Inochi2D banner. Use the sidebar on the left to select"
 " a project to get documentation from, and a topic you want to read about."
 msgstr ""
-"在這裡，你可以尋找具有官方支援的Inochi2D說明。"
+"在這裡，你可以找到具有官方支援的Inochi2D文件。"
 "使用左側的側邊欄來快速找到你需要閱讀的章節。"
 
 #: ../../index.rst:9 02aa32f60da2440ab1ab36369b6c70a1
