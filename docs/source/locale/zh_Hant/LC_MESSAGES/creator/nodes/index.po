@@ -20,13 +20,14 @@ msgstr ""
 #: ../../creator/nodes/index.rst:3 ../../creator/nodes/index.rst:49
 #: bf9a5be9bc9a488ca4c9cdd93f0e039b
 msgid "Nodes"
-msgstr ""
+msgstr "節點"
 
 #: ../../creator/nodes/index.rst:5 0f872aaa964f46379a5fbd73e5a82388
 msgid ""
 "Inochi2D is based of a concept called a `Scene Graph "
 "<https://en.wikipedia.org/wiki/Scene_graph>`__."
 msgstr ""
+"Inochi2D 是根據\\ `場景圖(Scene Graph) <https://en.wikipedia.org/wiki/Scene_graph>`\\ 的概念製作的。"
 
 #: ../../creator/nodes/index.rst:15 23e9f92b1b5b417db77d7544ea604104
 msgid ""
